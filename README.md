@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0066-plus-one) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
