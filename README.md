@@ -20,18 +20,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
