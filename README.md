@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
