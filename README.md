@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
