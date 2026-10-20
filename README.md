@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -51,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0965-univalued-binary-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
