@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
