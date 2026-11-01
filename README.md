@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Backtracking
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
