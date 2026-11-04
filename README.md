@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0015-3sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/madhuragolu/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Binary Search Tree
 |  |
